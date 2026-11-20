@@ -1,0 +1,6 @@
+{
+  "name": "MCU Chronos — Хронологический трекер киновселенной Marvel",
+  "description": "Интерактивный кинематографичный трекер просмотра киновселенной Marvel в строгом хронологическом порядке событий с аналитикой прогресса по сагам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
